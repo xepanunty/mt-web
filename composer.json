@@ -23,7 +23,10 @@
         "backpack/revise-operation": "^1.0",
         "backpack/filemanager": "^1.0",
         "consoletvs/charts": "6.*",
-        "laravel/legacy-factories": "^1.0"
+        "laravel/legacy-factories": "^1.0",
+        "stidges/country-flags": "^1.0",
+        "sendinblue/api-v3-sdk": "^7.2",
+        "laracasts/flash": "^3.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
